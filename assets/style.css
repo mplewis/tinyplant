@@ -1,0 +1,27 @@
+@import url("https://use.typekit.net/jfw4zpk.css");
+
+body {
+  max-width: 400px;
+  margin: 40px auto;
+  text-align: center;
+  font-family: 'Filson Pro', sans-serif;
+  font-weight: 300;
+}
+
+p {
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 16px;
+}
+
+a {
+  color: #208C26;
+}
+
+.logo {
+  max-width: 250px;
+}
+
+.subtitle {
+  font-weight: 400;
+}
