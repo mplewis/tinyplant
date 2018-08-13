@@ -1,17 +1,18 @@
 @import url("https://use.typekit.net/jfw4zpk.css");
 
 body {
-  max-width: 400px;
+  max-width: 500px;
   margin: 40px auto;
+  padding: 0 20px;
   text-align: center;
   font-family: 'Filson Pro', sans-serif;
   font-weight: 300;
 }
 
 p {
-  margin-top: 10px;
+  margin-top: 14px;
   margin-bottom: 0;
-  font-size: 16px;
+  font-size: 22px;
 }
 
 a {
@@ -19,7 +20,7 @@ a {
 }
 
 .logo {
-  max-width: 250px;
+  max-width: 300px;
 }
 
 .subtitle {
